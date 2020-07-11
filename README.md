@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/erickeagle8)](https://twitter.com/erickeagle8)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jindalkalash298@gmail.com)](mailto:jindalkalash298@gmail.com)
 
-## Data is present all around us, the main purpose is how to use that data in the right way.
+## Data is present all around us, the main purpose is how to utilize that data in the right way.
 
 - 🔭 Debugging My Mistakes.
 - 🌱 Right now I'm exploring the new dimensions in the field of technology
