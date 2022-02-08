@@ -16,5 +16,5 @@
 - 😄 Keep Smiling and Learning.
 - ⚡ Be on time.
 
-> :octocat: https://kalashjindal.live
+> :octocat: https://kalashjindal.tech
 
