@@ -6,12 +6,19 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jindalkalash298@gmail.com)](mailto:jindalkalash298@gmail.com)
 
 💼 I'm a passionate and enthusiastic Data Science Consultant. With a knack for turning data into compelling stories and insights, I'm always ready for the next big challenge.
+
 🔭 Currently, I'm debugging my mistakes and expanding my knowledge of data science and ML technologies.
+
 🌱 I'm exploring new dimensions in the field of technology and constantly learning and improving my skills.
+
 💡 I'm open to new opportunities and challenges in data science.
+
 💬 Feel free to ask me anything. If I know, I will help you, and if I don't, it's a chance for me to learn something new.
+
 😄 Remember to keep smiling and learning.
+
 ⚡ Fun fact: I believe being on time is one of the most important professional qualities.
+
 🌐 Visit my personal website at: https://kalashjindal.tech
 
 <h3 align='center'>GitHub Streak&nbsp;&nbsp;📈</h3>
