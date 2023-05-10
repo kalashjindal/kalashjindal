@@ -23,9 +23,4 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalashjindal&layout=compact&langs_count=10" />
  </p>
 
-<h3 align='center'>GitHub Streak&nbsp;&nbsp;📈</h3>
-<p align='center'>
- <img src="https://github-readme-stats.vercel.app/api?username=kalashjindal&show_icons=true&hide_title=true"> 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalashjindal&layout=compact&langs_count=10" />
-  <img src='https://github-readme-streak-stats.herokuapp.com/?user=kalashjindal&hide_border=true&background=00000000&stroke=777777&sideNums=4488FF&currStreakNum=4488FF&ring=45CEA2&fire=4488FF&currStreakLabel=68C2F5&sideLabels=68C2F5&dates=54AF9C'>
 </p>
